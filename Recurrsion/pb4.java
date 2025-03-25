@@ -11,3 +11,7 @@ public class pb4 {
         System.out.println(fib(25));
     }
 }
+
+
+// space complexity - O(n)
+// time complexity - O(2^n)
