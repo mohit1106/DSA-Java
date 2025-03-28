@@ -1,4 +1,4 @@
-// write a program to find the first occurence of a number in an array
+// write a program to find the last occurence of a number in an array
 
 public class pb7 {
     public static int findLastOccurrence(int[] arr, int key, int i){
