@@ -1,7 +1,7 @@
 // remove all duplicate characters in a string where all the characters are from 'a' to 'z', there are no special characters.
 
 public class pb10 {
-    public static void removeDuplicates(String str, int idx, StringBuilder newStr, boolean map[]){ //map is an array that stores if characters have already have appeared or not
+    public static void removeDuplicates(String str, int idx, StringBuilder newStr, boolean map[]){ //map is an array that stores if characters have already have appeared or not for all english alphabet
         if(idx == str.length()) {
             System.out.println(newStr);
             return;
