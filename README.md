@@ -1,7 +1,28 @@
 2D Arrays
+
+<details>
+  <summary><strong>Recursion Problems</strong></summary>
+
 Strings
+
+</details>
+
+
+<details>
+  <summary><strong>Recursion Problems</strong></summary>
+
 Bit Manipulation
+
+</details>
+
+<details>
+  <summary><strong>Recursion Problems</strong></summary>
+
 OOPs
+
+</details>
+
+
 
 <details>
   <summary><strong>Recursion Problems</strong></summary>
