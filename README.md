@@ -37,5 +37,7 @@ OOPs
 8. [problem 8](https://github.com/mohit1106/DSA-Java/blob/226da130f9d34e513ee9248eff7cd232f90b1ce1/Recurrsion/pb8.java) - printing x^n
 9. [problem 9](https://github.com/mohit1106/DSA-Java/blob/226da130f9d34e513ee9248eff7cd232f90b1ce1/Recurrsion/pb9.java) - Tiling Problem
 10. [problem 10](https://github.com/mohit1106/DSA-Java/blob/226da130f9d34e513ee9248eff7cd232f90b1ce1/Recurrsion/pb10.java) - Remove duplicates in String
+10. [problem 11](https://github.com/mohit1106/DSA-Java/blob/432ddba198fdd172bab2db6c851c083cc0fc2c16/Recurrsion/pb11.java) - Friends Pairing Problem
+
 
 </details>
