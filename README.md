@@ -1,7 +1,7 @@
 2D Arrays
 
 <details>
-  <summary><strong>Recursion Problems</strong></summary>
+  <summary><strong>Strings</strong></summary>
 
 Strings
 
@@ -9,14 +9,14 @@ Strings
 
 
 <details>
-  <summary><strong>Recursion Problems</strong></summary>
+  <summary><strong>Bit Manipulation</strong></summary>
 
 Bit Manipulation
 
 </details>
 
 <details>
-  <summary><strong>Recursion Problems</strong></summary>
+  <summary><strong>OOPs</strong></summary>
 
 OOPs
 
@@ -25,7 +25,7 @@ OOPs
 
 
 <details>
-  <summary><strong>Recursion Problems</strong></summary>
+  <summary><strong>Recursion</strong></summary>
 
 1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/ef87b3a1914325f649b272bf27a277e57e352103/Recurrsion/pb1.java) - print numbers from n to 1
 2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/226da130f9d34e513ee9248eff7cd232f90b1ce1/Recurrsion/pb2.java) - Print numbers from 1 to n
