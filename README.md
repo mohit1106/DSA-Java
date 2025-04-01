@@ -45,6 +45,6 @@ OOPs
 <details>
   <summary><strong>Divide & Conquer</strong></summary>
 
-  . [problem 1](https://github.com/mohit1106/DSA-Java/blob/9494883d01839467331125cd42f5d382109f0f9f/Divide%20%26%20Conquer/pb1.java) - Merge Sort
+  1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/9494883d01839467331125cd42f5d382109f0f9f/Divide%20%26%20Conquer/pb1.java) - Merge Sort
 
 </details>
