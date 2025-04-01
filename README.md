@@ -41,3 +41,10 @@ OOPs
   12. [problem 12](https://github.com/mohit1106/DSA-Java/blob/1ed47bac60ea66f3c24703560d15e641b0658048/Recurrsion/pb12.java) - Binary Strings problem
   
 </details>
+
+<details>
+  <summary><strong>Divide & Conquer</strong></summary>
+
+OOPs
+
+</details>
