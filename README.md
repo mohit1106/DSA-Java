@@ -47,5 +47,6 @@ OOPs
 
   1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/9494883d01839467331125cd42f5d382109f0f9f/Divide%20%26%20Conquer/pb1.java) - Merge Sort
   2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/c0890c0e1d420f9635168d7d94649ed804aaabae/Divide%20%26%20Conquer/pb2.java) - Quick Sort
+  3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/f540328b1282bb18fed83a043b0f5ca5229b869c/Divide%20%26%20Conquer/pb3.java) - Search in Rotated Sorted Array
 
 </details>
