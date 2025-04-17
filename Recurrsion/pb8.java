@@ -9,7 +9,7 @@ public class pb8 {
         return x * power(x, n-1);
     }
 
-    // optimized approach - O(log n) complexity
+    // optimized approach - O(log n) time and space complexity
     public static int powerOf(int x, int n){
         if (n == 0) return 1;
         int halfPower = powerOf(x, n/2);
