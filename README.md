@@ -50,3 +50,12 @@ OOPs
   3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/f540328b1282bb18fed83a043b0f5ca5229b869c/Divide%20%26%20Conquer/pb3.java) - Search in Rotated Sorted Array
 
 </details>
+
+<details>
+  <summary><strong>Backtracking</strong></summary>
+
+  1. [problem 1]() - Backtracking on Arrays
+  2. [problem 2]() - print all subsets of a given string
+  3. [problem 3]() - 
+
+</details>
