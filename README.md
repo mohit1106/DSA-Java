@@ -56,6 +56,6 @@ OOPs
 
   1. [problem 1]() - Backtracking on Arrays
   2. [problem 2]() - print all subsets of a given string
-  3. [problem 3]() - 
+  3. [problem 3]() - print all permutations of a string
 
 </details>
