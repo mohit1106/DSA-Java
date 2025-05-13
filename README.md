@@ -75,5 +75,7 @@ OOPs
   5. [problem 5](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/nQueensReal.java) - n queens - prints all the possible boards
   6. [problem 6](https://github.com/mohit1106/DSA-Java/blob/bce06672eec3cf0b349da727faca836dd600c694/Backtracking/nQueensWays.java) - n queens ways - count the total number of ways
   7. [problem 7](https://github.com/mohit1106/DSA-Java/blob/bce06672eec3cf0b349da727faca836dd600c694/Backtracking/nQueensExists.java) - n queens solution exists or not - print one solution
+  8. [problem 8]() - grid ways - ways to reach from (0, 0) to (n-1, m-1) in a nxm grid
+  9. [problem 9]() - Sudoku solver - complete a sudoku of 9X9 grid
 
 </details>
