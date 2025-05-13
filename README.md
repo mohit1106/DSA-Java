@@ -73,7 +73,7 @@ OOPs
   3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/permutations.java) - print all permutations of a string
   4. [problem 4](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/nQueens.java) - n queens simple version - ways to place n queens into n rows in a nXn board
   5. [problem 5](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/nQueensReal.java) - n queens - prints all the possible boards
-  6. [problem 6]() - n queens ways - count the total number of ways
-  7. [problem 7]() - n queens solution exists or not - print one solution
+  6. [problem 6](https://github.com/mohit1106/DSA-Java/blob/bce06672eec3cf0b349da727faca836dd600c694/Backtracking/nQueensWays.java) - n queens ways - count the total number of ways
+  7. [problem 7](https://github.com/mohit1106/DSA-Java/blob/bce06672eec3cf0b349da727faca836dd600c694/Backtracking/nQueensExists.java) - n queens solution exists or not - print one solution
 
 </details>
