@@ -1,5 +1,6 @@
 // N-Queens - Place N queens on an NxN chessboard such that no 2 queens can attack each other
 // Leetcode - https://leetcode.com/problems/n-queens/description/
+// time - O(n!)
 
 // prints all the possible boards
 public class nQueensReal {
