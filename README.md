@@ -68,10 +68,10 @@ OOPs
 <details>
   <summary><strong>Backtracking</strong></summary>
 
-  1. [problem 1]() - Backtracking on Arrays
-  2. [problem 2]() - print all subsets of a given string
-  3. [problem 3]() - print all permutations of a string
-  4. [problem 4]() - n queens simple version - ways to place n queens into n rows in a nXn board
-  5. [problem 5]() - n queens - prints all the possible boards
+  1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/arrays.java) - Backtracking on Arrays
+  2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/subsets.java) - print all subsets of a given string
+  3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/permutations.java) - print all permutations of a string
+  4. [problem 4](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/nQueens.java) - n queens simple version - ways to place n queens into n rows in a nXn board
+  5. [problem 5](https://github.com/mohit1106/DSA-Java/blob/3fbb35bef30a91b435feca34c58d5d83a52de684/Backtracking/nQueensReal.java) - n queens - prints all the possible boards
 
 </details>
