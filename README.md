@@ -79,3 +79,13 @@ OOPs
   9. [problem 9](https://github.com/mohit1106/DSA-Java/blob/a56e29740a67251170bc9670ca3b0fa49373c9bc/Backtracking/sudoku.java) - Sudoku solver - complete a sudoku of 9X9 grid
 
 </details>
+
+
+<details>
+  <summary><strong>ArrayList</strong></summary>
+
+  1. [problem 1]() - Container with most water
+  2. [problem 2]() - Pairsum - if any pair in sorted ArrayList has target sum
+  3. [problem 3]() - Pairsum 2 - find if any pair in a sorted and rotated arraylist has a target sum
+
+</details>
