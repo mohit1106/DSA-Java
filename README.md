@@ -84,8 +84,8 @@ OOPs
 <details>
   <summary><strong>ArrayList</strong></summary>
 
-  1. [problem 1]() - Container with most water
-  2. [problem 2]() - Pairsum - if any pair in sorted ArrayList has target sum
-  3. [problem 3]() - Pairsum 2 - find if any pair in a sorted and rotated arraylist has a target sum
+  1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/55ec9c717f0967dde68a0ba2e903ef4bd55a01e8/ArrayList/waterContainer.java) - Container with most water
+  2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/55ec9c717f0967dde68a0ba2e903ef4bd55a01e8/ArrayList/pairSum1.java) - Pairsum - if any pair in sorted ArrayList has target sum
+  3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/55ec9c717f0967dde68a0ba2e903ef4bd55a01e8/ArrayList/pairSum2.java) - Pairsum 2 - find if any pair in a sorted and rotated arraylist has a target sum
 
 </details>
