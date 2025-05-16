@@ -97,6 +97,6 @@ OOPs
 <details>
   <summary><strong>Miscellaneous</strong></summary>
 
-  1. [problem 1]() - Beautiful Array
+  1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/e4bbb8a3ff67a287edf6fa4bfda1724b7c2a30d9/Miscellaneous/Beautiful%20Array/Solution.java) - Beautiful Array
 
 </details>
