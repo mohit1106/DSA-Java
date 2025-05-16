@@ -89,3 +89,14 @@ OOPs
   3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/55ec9c717f0967dde68a0ba2e903ef4bd55a01e8/ArrayList/pairSum2.java) - Pairsum 2 - find if any pair in a sorted and rotated arraylist has a target sum
 
 </details>
+
+
+
+
+
+<details>
+  <summary><strong>Miscellaneous</strong></summary>
+
+  1. [problem 1]() - Beautiful Array
+
+</details>
