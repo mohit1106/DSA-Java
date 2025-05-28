@@ -91,6 +91,14 @@ OOPs
 </details>
 
 
+<details>
+  <summary><strong>LinkedList</strong></summary>
+
+  1. [problem 1]() - Container with most water
+
+</details>
+
+
 
 
 
