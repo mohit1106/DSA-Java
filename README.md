@@ -94,7 +94,7 @@ OOPs
 <details>
   <summary><strong>LinkedList</strong></summary>
 
-  1. [problem 1]() - Main with all problems
+  1. [problem 1]() - Main with all Functions from scratch
 
 </details>
 
