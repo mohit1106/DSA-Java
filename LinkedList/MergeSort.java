@@ -1,4 +1,4 @@
-public class Main {
+public class MergeSort {
 
     public static class Node{
         int data;
@@ -307,7 +307,7 @@ public class Main {
         // removeCycle();
         // System.out.println(hasCycle());
 
-        Main ll = new Main();
+        MergeSort ll = new MergeSort();
         ll.addFirst(1);
         ll.addFirst(5);
         ll.addFirst(58);

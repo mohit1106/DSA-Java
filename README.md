@@ -95,6 +95,8 @@ OOPs
   <summary><strong>LinkedList</strong></summary>
 
   1. [problem 1]() - Main with all Functions from scratch
+  2. [problem 2]() - Java Collection framework for linkedList
+  3. [problem 3]() - Merge Sort on linkedList
 
 </details>
 
