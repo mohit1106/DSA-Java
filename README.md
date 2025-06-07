@@ -114,6 +114,7 @@ OOPs
   4. [problem 4]() - push at the bottom of the stack
   5. [problem 5]() - reverse a string using a stack
   6. [problem 6]() - reverse a stack
+  7. [problem 7]() - stock span problem
 
 </details>
 
