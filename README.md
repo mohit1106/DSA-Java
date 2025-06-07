@@ -94,15 +94,23 @@ OOPs
 <details>
   <summary><strong>LinkedList</strong></summary>
 
-  1. [problem 1]() - Main with all Functions from scratch
-  2. [problem 2]() - Java Collection framework for linkedList
-  3. [problem 3]() - Merge Sort on linkedList
-  4. [problem 4]() - zig zag Linked List
-  5. [problem 5]() - Implementing a Doubly Linked List with basic functions and reverse function
-  6. [problem 6]() - Circular Singly Linked List
+  1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/033cd856e0975a133bdc576d1225322e8dec19a7/LinkedList/Main.java) - Main with all Functions from scratch
+  2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/033cd856e0975a133bdc576d1225322e8dec19a7/LinkedList/builtinLL.java) - Java Collection framework for linkedList
+  3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/033cd856e0975a133bdc576d1225322e8dec19a7/LinkedList/MergeSort.java) - Merge Sort on linkedList
+  4. [problem 4](https://github.com/mohit1106/DSA-Java/blob/033cd856e0975a133bdc576d1225322e8dec19a7/LinkedList/zigzagLL.java) - zig zag Linked List
+  5. [problem 5](https://github.com/mohit1106/DSA-Java/blob/033cd856e0975a133bdc576d1225322e8dec19a7/LinkedList/doublyLL.java) - Implementing a Doubly Linked List with basic functions and reverse function
+  6. [problem 6](https://github.com/mohit1106/DSA-Java/blob/033cd856e0975a133bdc576d1225322e8dec19a7/LinkedList/singlyCircularLL.java) - Circular Singly Linked List
 
 </details>
 
+
+
+<details>
+  <summary><strong>Stacks</strong></summary>
+
+  1. [problem 1]() - stack
+
+</details>
 
 
 
