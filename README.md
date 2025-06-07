@@ -108,7 +108,12 @@ OOPs
 <details>
   <summary><strong>Stacks</strong></summary>
 
-  1. [problem 1]() - stack
+  1. [problem 1]() - implementing functions of stack using an ArrayList
+  2. [problem 2]() - implementing functions of stack using a Linked List
+  3. [problem 3]() - builtin java collection framework for stack
+  4. [problem 4]() - push at the bottom of the stack
+  5. [problem 5]() - reverse a string using a stack
+  6. [problem 6]() - reverse a stack
 
 </details>
 
