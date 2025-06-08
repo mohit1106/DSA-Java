@@ -117,6 +117,8 @@ OOPs
   7. [problem 7]() - stock span problem
   8. [problem 8]() - next greater element on right side
   9. [problem 9]() - Valid Parentheses
+  10. [problem 10]() - Duplicate Parentheses
+  11. [problem 11]() - Max Area in Histogram
 
 </details>
 
