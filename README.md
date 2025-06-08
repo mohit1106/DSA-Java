@@ -115,6 +115,8 @@ OOPs
   5. [problem 5]() - reverse a string using a stack
   6. [problem 6]() - reverse a stack
   7. [problem 7]() - stock span problem
+  8. [problem 8]() - next greater element on right side
+  9. [problem 9]() - Valid Parentheses
 
 </details>
 
