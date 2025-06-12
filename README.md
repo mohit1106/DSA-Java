@@ -124,6 +124,21 @@ OOPs
 
 
 
+<details>
+  <summary><strong>Queue</strong></summary>
+
+  1. [problem 1]() - implement functions of queue by array
+  2. [problem 2]() - implement circular queue using an array
+  3. [problem 3]() - Queue using a Linked List
+  4. [problem 4]() - Queue using Two Stacks with O(n) for adding
+  5. [problem 5]() - Stacks using Two Queue with O(n) for pop
+  6. [problem 6]() - 
+  7. [problem 7]() - 
+  8. [problem 8]() - 
+
+</details>
+
+
 
 <details>
   <summary><strong>Miscellaneous</strong></summary>
