@@ -108,17 +108,17 @@ OOPs
 <details>
   <summary><strong>Stacks</strong></summary>
 
-  1. [problem 1]() - implementing functions of stack using an ArrayList
-  2. [problem 2]() - implementing functions of stack using a Linked List
-  3. [problem 3]() - builtin java collection framework for stack
-  4. [problem 4]() - push at the bottom of the stack
-  5. [problem 5]() - reverse a string using a stack
-  6. [problem 6]() - reverse a stack
-  7. [problem 7]() - stock span problem
-  8. [problem 8]() - next greater element on right side
-  9. [problem 9]() - Valid Parentheses
-  10. [problem 10]() - Duplicate Parentheses
-  11. [problem 11]() - Max Area in Histogram
+  1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/usingArrayList.java) - implementing functions of stack using an ArrayList
+  2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/usingLinkedList.java) - implementing functions of stack using a Linked List
+  3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/builtin.java) - builtin java collection framework for stack
+  4. [problem 4](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/pushAtBottom.java) - push at the bottom of the stack
+  5. [problem 5](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/reverseString.java) - reverse a string using a stack
+  6. [problem 6](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/reverseStack.java) - reverse a stack
+  7. [problem 7](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/stockSpan.java) - stock span problem
+  8. [problem 8](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/nextGreater.java) - next greater element on right side
+  9. [problem 9](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/validParentheses.java) - Valid Parentheses
+  10. [problem 10](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/duplicateParentheses.java) - Duplicate Parentheses
+  11. [problem 11](https://github.com/mohit1106/DSA-Java/blob/27ac48f8ff13993dc32dcd3a68c3636f0f3fa811/stack/maxArea.java) - Max Area in Histogram
 
 </details>
 
