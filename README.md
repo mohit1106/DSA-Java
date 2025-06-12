@@ -132,7 +132,7 @@ OOPs
   3. [problem 3]() - Queue using a Linked List
   4. [problem 4]() - Queue using Two Stacks with O(n) for adding
   5. [problem 5]() - Stacks using Two Queue with O(n) for pop
-  6. [problem 6]() - 
+  6. [problem 6]() - first non-repeating letter in stream of characters
   7. [problem 7]() - 
   8. [problem 8]() - 
 
