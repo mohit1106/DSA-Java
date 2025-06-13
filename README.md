@@ -127,17 +127,17 @@ OOPs
 <details>
   <summary><strong>Queue</strong></summary>
 
-  1. [problem 1]() - implement functions of queue by array
-  2. [problem 2]() - implement circular queue using an array
-  3. [problem 3]() - Queue using a Linked List
-  4. [problem 4]() - Queue using Two Stacks with O(n) for adding
-  5. [problem 5]() - Stacks using Two Queue with O(n) for pop
-  6. [problem 6]() - first non-repeating letter in stream of characters
-  7. [problem 7]() - interleave two halves of a queue of even length
-  8. [problem 8]() - reverse a queue using stack
-  9. [problem 9]() - deque using java collection framework
-  10. [problem 10]() - implement a stack using a deque
-  11. [problem 11]() - implement a Queue using a deque
+  1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/byArray.java) - implement functions of queue by array
+  2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/circularQueue.java) - implement circular queue using an array
+  3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/byLinkedList.java) - Queue using a Linked List
+  4. [problem 4](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/byTwoStacks.java) - Queue using Two Stacks with O(n) for adding
+  5. [problem 5](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/stackByTwoQueue.java) - Stacks using Two Queue with O(n) for pop
+  6. [problem 6](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/firstNonRepeating.java) - first non-repeating letter in stream of characters
+  7. [problem 7](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/interleaveTwoHalvws.java) - interleave two halves of a queue of even length
+  8. [problem 8](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/reverseQueue.java) - reverse a queue using stack
+  9. [problem 9](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/deque.java) - deque using java collection framework
+  10. [problem 10](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/stackByDeque.java) - implement a stack using a deque
+  11. [problem 11](https://github.com/mohit1106/DSA-Java/blob/1a7273ceac787023b8ce13f1b83cf511ff1acf99/queue/queueByDeque.java) - implement a Queue using a deque
 
 </details>
 
