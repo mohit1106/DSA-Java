@@ -133,8 +133,11 @@ OOPs
   4. [problem 4]() - Queue using Two Stacks with O(n) for adding
   5. [problem 5]() - Stacks using Two Queue with O(n) for pop
   6. [problem 6]() - first non-repeating letter in stream of characters
-  7. [problem 7]() - 
-  8. [problem 8]() - 
+  7. [problem 7]() - interleave two halves of a queue of even length
+  8. [problem 8]() - reverse a queue using stack
+  9. [problem 9]() - deque using java collection framework
+  10. [problem 10]() - implement a stack using a deque
+  11. [problem 11]() - implement a Queue using a deque
 
 </details>
 
