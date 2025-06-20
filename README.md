@@ -144,6 +144,20 @@ OOPs
 
 
 <details>
+  <summary><strong>Greedy Algorithms</strong></summary>
+
+  1. [problem 1]() - Activity Selection problem
+  2. [problem 2]() - Fractional Knapsack Problem
+  3. [problem 3]() - 
+  4. [problem 4]() - 
+  5. [problem 5]() - 
+  6. [problem 6]() - 
+
+</details>
+
+
+
+<details>
   <summary><strong>Miscellaneous</strong></summary>
 
   1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/e4bbb8a3ff67a287edf6fa4bfda1724b7c2a30d9/Miscellaneous/Beautiful%20Array/Solution.java) - Beautiful Array
