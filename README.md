@@ -151,7 +151,7 @@ OOPs
   3. [problem 3]() - Minimum absolute difference pairs
   4. [problem 4]() - Max Length Chain of Pairs
   5. [problem 5]() - Indian Coins
-  6. [problem 6]() - 
+  6. [problem 6]() - Job Sequencing Problem
   7. [problem 7]() - 
 
 </details>
