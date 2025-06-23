@@ -148,10 +148,11 @@ OOPs
 
   1. [problem 1]() - Activity Selection problem
   2. [problem 2]() - Fractional Knapsack Problem
-  3. [problem 3]() - 
-  4. [problem 4]() - 
-  5. [problem 5]() - 
+  3. [problem 3]() - Minimum absolute difference pairs
+  4. [problem 4]() - Max Length Chain of Pairs
+  5. [problem 5]() - Indian Coins
   6. [problem 6]() - 
+  7. [problem 7]() - 
 
 </details>
 
