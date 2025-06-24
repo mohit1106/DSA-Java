@@ -160,11 +160,11 @@ OOPs
 <details>
   <summary><strong>Binary Trees</strong></summary>
 
-  1. [problem 1]() - build a binary tree using a preorder sequence (also includes traversals)
-  2. [problem 2]() - 
-  3. [problem 3]() - 
-  4. [problem 4]() - 
-  5. [problem 5]() - 
+  1. [problem 1]() - build a binary tree using a preorder sequence (also traversals)
+  2. [problem 2]() - height of a binary tree 
+  3. [problem 3]() - count total Nodes and their sum
+  4. [problem 4]() - diameter of a binary tree - O(n^2)
+  5. [problem 5]() - diameter of a binary tree - O(n)
   6. [problem 6]() - 
   7. [problem 7]() - 
 
