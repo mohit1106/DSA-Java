@@ -165,8 +165,8 @@ OOPs
   3. [problem 3]() - count total Nodes and their sum
   4. [problem 4]() - diameter of a binary tree - O(n^2)
   5. [problem 5]() - diameter of a binary tree - O(n)
-  6. [problem 6]() - 
-  7. [problem 7]() - 
+  6. [problem 6]() - Subtree of another Tree
+  7. [problem 7]() - Top view of a Binary Tree
 
 </details>
 
