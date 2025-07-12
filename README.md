@@ -158,8 +158,9 @@ OOPs
 8. [problem 8]() - print all elements of kth level in binary tree
 9. [problem 9]() - find lowest common ancestor for two given nodes - O(n) time and space
 10. [problem 10]() - lowest common ancestor two - O(n) time, const space
-11. [problem 11]() -
-12. [problem 12]() -
+11. [problem 11]() - Minimum distance/edges between two nodes
+12. [problem 12]() - Kth ancestor of a node
+13. [problem 13]() -
 
 </details>
 
