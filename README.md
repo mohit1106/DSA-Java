@@ -156,8 +156,10 @@ OOPs
 6. [problem 6]() - Subtree of another Tree
 7. [problem 7]() - Top view of a Binary Tree
 8. [problem 8]() - print all elements of kth level in binary tree
-9. [problem 9]() -
-10. [problem 10]() -
+9. [problem 9]() - find lowest common ancestor for two given nodes - O(n) time and space
+10. [problem 10]() - lowest common ancestor two - O(n) time, const space
+11. [problem 11]() -
+12. [problem 12]() -
 
 </details>
 
