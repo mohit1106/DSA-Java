@@ -145,6 +145,7 @@ OOPs
 
 </details>
 
+
 <details>
   <summary><strong>Binary Trees</strong></summary>
 
@@ -163,6 +164,21 @@ OOPs
 13. [problem 13](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/sumTree.java) - transform binary tree to sum tree
 
 </details>
+
+
+<details>
+  <summary><strong>Binary Search Trees</strong></summary>
+
+1. [problem 1]() - Build a Binary Search Tree
+2. [problem 2]() - search for a key in BST
+3. [problem 3]() - delete a node from BST
+4. [problem 4]() - print all nodes in range k1 to k2
+5. [problem 5]() -
+6. [problem 6]() -
+7. [problem 7]() -
+
+</details>
+
 
 <details>
   <summary><strong>Miscellaneous</strong></summary>
