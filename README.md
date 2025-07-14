@@ -148,19 +148,19 @@ OOPs
 <details>
   <summary><strong>Binary Trees</strong></summary>
 
-1. [problem 1]() - build a binary tree using a preorder sequence (also traversals)
-2. [problem 2]() - height of a binary tree
-3. [problem 3]() - count total Nodes and their sum
-4. [problem 4]() - diameter of a binary tree - O(n^2)
-5. [problem 5]() - diameter of a binary tree - O(n)
-6. [problem 6]() - Subtree of another Tree
-7. [problem 7]() - Top view of a Binary Tree
-8. [problem 8]() - print all elements of kth level in binary tree
-9. [problem 9]() - find lowest common ancestor for two given nodes - O(n) time and space
-10. [problem 10]() - lowest common ancestor two - O(n) time, const space
-11. [problem 11]() - Minimum distance/edges between two nodes
-12. [problem 12]() - Kth ancestor of a node
-13. [problem 13]() - transform binary tree to sum tree
+1. [problem 1](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/buildTreePreorder.java) - build a binary tree using a preorder sequence (also traversals)
+2. [problem 2](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/height.java) - height of a binary tree
+3. [problem 3](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/countNodes.java) - count total Nodes and their sum
+4. [problem 4](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/diameterOfTree.java) - diameter of a binary tree - O(n^2)
+5. [problem 5](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/diameterOptimized.java) - diameter of a binary tree - O(n)
+6. [problem 6](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/subtreeOfTree.java) - Subtree of another Tree
+7. [problem 7](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/topViewOfTree.java) - Top view of a Binary Tree
+8. [problem 8](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/kthLevelOfTree.java) - print all elements of kth level in binary tree
+9. [problem 9](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/lowestCommonAncestor.java) - lowest common ancestor for two given nodes - O(n) time, space
+10. [problem 10](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/lowestCommonAncestor2.java) - lowest common ancestor two - O(n) time, const space
+11. [problem 11](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/minDistance.java) - Minimum distance/edges between two nodes
+12. [problem 12](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/kthAncestor.java) - Kth ancestor of a node
+13. [problem 13](https://github.com/mohit1106/DSA-Java/blob/646f4d1064cfd28721593589169ea39b9da28260/Binary%20Trees/sumTree.java) - transform binary tree to sum tree
 
 </details>
 
