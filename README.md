@@ -176,6 +176,11 @@ OOPs
 5. [problem 5]() - print all the paths from root to each leaf
 6. [problem 6]() - check if a given BST is valid BST
 7. [problem 7]() - mirror a BST
+8. [problem 8]() - sorted array to balanced BST
+9. [problem 9]() - convert BST to balanced BST - O(n)
+10. [problem 10]() - 
+11. [problem 11]() - 
+12. [problem 12]() - 
 
 </details>
 
