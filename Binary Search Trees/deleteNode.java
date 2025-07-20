@@ -17,7 +17,7 @@ public class deleteNode {
         } else if(root.data < val){
             root.right = delete(root.right, val);
         } else{ // root.data == val i.e found the correct node
-            if (root.left == null && root.right == null) { // deleting the leaf node
+            if (root.left == null && root.right == null) { // deleting leaf node
                 return null;
             }
 

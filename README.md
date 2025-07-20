@@ -173,8 +173,8 @@ OOPs
 2. [problem 2]() - search for a key in BST
 3. [problem 3]() - delete a node from BST
 4. [problem 4]() - print all nodes in range k1 to k2
-5. [problem 5]() -
-6. [problem 6]() -
+5. [problem 5]() - print all the paths from root to each leaf
+6. [problem 6]() - check if a given BST is valid BST
 7. [problem 7]() -
 
 </details>
