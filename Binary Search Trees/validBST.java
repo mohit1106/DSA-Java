@@ -3,8 +3,6 @@
 // aproach 2 - left subtree nodes can lie in Integer.MIN_VALUE to root.data-1  and
 //             right subtree nodes can lie in root.data+1 to Integer.MAX_VALUE
 
-import java.util.ArrayList;
-
 public class validBST {
     static class Node{
         int data;
