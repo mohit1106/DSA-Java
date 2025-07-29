@@ -178,8 +178,8 @@ OOPs
 7. [problem 7]() - mirror a BST
 8. [problem 8]() - sorted array to balanced BST
 9. [problem 9]() - convert BST to balanced BST - O(n)
-10. [problem 10]() - 
-11. [problem 11]() - 
+10. [problem 10]() - find size of largest BST in Binary Tree
+11. [problem 11]() - merge two BST
 12. [problem 12]() - 
 
 </details>
