@@ -180,7 +180,31 @@ OOPs
 9. [problem 9]() - convert BST to balanced BST - O(n)
 10. [problem 10]() - find size of largest BST in Binary Tree
 11. [problem 11]() - merge two BST
-12. [problem 12]() - 
+
+</details>
+
+
+
+<details>
+  <summary><strong>AVL Trees</strong></summary>
+
+1. [problem 1]() - AVL trees - insert nodes
+2. [problem 2]() - 
+
+</details>
+
+
+
+<details>
+  <summary><strong>Priority Queue and Heaps</strong></summary>
+
+1. [problem 1]() - Priority queue - java collection framework
+2. [problem 2]() - priority queue of objects
+3. [problem 3]() - insert an element in a heap - O(log n)
+4. [problem 4]() - get minimim element from heap - Peek function - O(1)
+5. [problem 5]() - delete element from heap - full implementation also included
+6. [problem 6]() - full implementation max heap 
+7. [problem 7]() - Heap Sort - O(n log n)
 
 </details>
 
