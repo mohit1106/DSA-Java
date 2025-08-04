@@ -205,6 +205,29 @@ OOPs
 5. [problem 5]() - delete element from heap - full implementation also included
 6. [problem 6]() - full implementation max heap 
 7. [problem 7]() - Heap Sort - O(n log n)
+8. [problem 8]() - Nearby cars position from Origin
+9. [problem 9]() - connect N ropes into one rope with minimum cost
+10. [problem 10]() - Weakest Soldier/rows
+11. [problem 11]() - sliding window maximum - O(n log k)
+
+</details>
+
+
+
+<details>
+  <summary><strong>Hashing</strong></summary>
+
+1. [problem 1]() - HashMap implementation of all functions
+2. [problem 2]() - 
+3. [problem 3]() - 
+4. [problem 4]() - 
+5. [problem 5]() - 
+6. [problem 6]() -  
+7. [problem 7]() - 
+8. [problem 8]() - 
+9. [problem 9]() - 
+10. [problem 10]() - 
+11. [problem 11]() - 
 
 </details>
 
