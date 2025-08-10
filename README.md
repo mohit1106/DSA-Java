@@ -229,6 +229,8 @@ OOPs
 10. [problem 10]() - find itinerary(path) from tickets
 11. [problem 11]() - largest subarray with 0 sum - O(n)
 12. [problem 12]() - number of subarray whose sum equal to K - O(n)
+13. [problem 13]() - print bottom view of a binary tree - using DFS - O(n log n)
+14. [problem 14]() - print bottom view of a binary tree - using Hashing  - O(n)
 
 </details>
 
