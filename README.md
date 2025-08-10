@@ -237,12 +237,12 @@ OOPs
 <details>
   <summary><strong>Tries</strong></summary>
 
-1. [problem 1]() - 
-2. [problem 2]() - 
-3. [problem 3]() - 
-4. [problem 4]() - 
-5. [problem 5]() - 
-6. [problem 6]() - 
+1. [problem 1]() - Implement Tries - insert, search
+2. [problem 2]() - word break problem
+3. [problem 3]() - prefix problem
+4. [problem 4]() - startsWith function creation
+5. [problem 5]() - *imp* - count unique substrings
+6. [problem 6]() - longest word having all its prefixes in array as words
 7. [problem 7]() - 
 8. [problem 8]() - 
 9. [problem 9]() - 
