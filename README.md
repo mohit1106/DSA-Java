@@ -253,10 +253,10 @@ OOPs
 <details>
   <summary><strong>Graphs</strong></summary>
 
-1. [problem 1]() - 
-2. [problem 2]() - 
-3. [problem 3]() - 
-4. [problem 4]() - 
+1. [problem 1]() - Creating a graph using and adjacency list
+2. [problem 2]() - BFS(Breadth first search) traversal on graph 
+3. [problem 3]() - DFS(Depth first search) traversal on graph 
+4. [problem 4]() - hasPath - find if a path exist from given src to dest
 5. [problem 5]() - 
 6. [problem 6]() - 
 
