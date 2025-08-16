@@ -257,8 +257,12 @@ OOPs
 2. [problem 2]() - BFS(Breadth first search) traversal on graph 
 3. [problem 3]() - DFS(Depth first search) traversal on graph 
 4. [problem 4]() - hasPath - find if a path exist from given src to dest
-5. [problem 5]() - 
-6. [problem 6]() - 
+5. [problem 5]() - traversing on graph having multiple components
+6. [problem 6]() - Cycle detection in undirected graph using modified DFS
+7. [problem 7]() - Bipartite graphs - using BFS
+8. [problem 8]() - Cycle detection in Directed graph using modified DFS
+9. [problem 9]() - Topological Sorting
+10. [problem 10]() - 
 
 </details>
 
